@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniCore_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19a0fe96668b3f60399961791cc928d6c57bc49a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniCore_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniCore_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
