@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:controllers\\gastocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\minicore_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:minicore_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Migrations\\20241229211202_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241229211202_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|d:\\users\\liset\\documents\\septimo semestre\\ingenier\u00EDa web\\minicore_backend\\migrations\\20241229214707_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA4364-CC06-4E43-94C0-70C936CA2C4F}|MiniCore_Backend.csproj|solutionrelative:migrations\\20241229214707_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{33c88fe3-43b3-374e-9aac-c4679036dce0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:06:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniCore_Backend.http",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\MiniCore_Backend.http",
+              "RelativeDocumentMoniker": "MiniCore_Backend.http",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\MiniCore_Backend.http",
+              "RelativeToolTip": "MiniCore_Backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-29T21:09:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:05:31.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "Models\\Empleado.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Empleado.cs",
+              "RelativeToolTip": "Models\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:05:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Gasto.cs",
+              "RelativeDocumentMoniker": "Models\\Gasto.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Models\\Gasto.cs",
+              "RelativeToolTip": "Models\\Gasto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:05:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241229214707_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Migrations\\20241229214707_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241229214707_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Migrations\\20241229214707_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241229214707_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:47:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T21:07:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:07:29.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GastoController.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Controllers\\GastoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GastoController.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Controllers\\GastoController.cs",
+              "RelativeToolTip": "Controllers\\GastoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAE0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:09:36.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241229211202_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Migrations\\20241229211202_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241229211202_InitialCreate.cs",
+              "ToolTip": "D:\\Users\\liset\\Documents\\SEPTIMO SEMESTRE\\INGENIER\u00CDA WEB\\MiniCore_Backend\\Migrations\\20241229211202_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241229211202_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:12:02.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
